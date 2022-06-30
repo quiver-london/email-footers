@@ -1,6 +1,6 @@
 # How to use
 
-1. Look in `/examples` for the the footer you want.
+1. Look in `/examples` for the the footer you want (if you're in Product/Ops choose 'default'; if in Growth choose 'calendly')
 2. Find its respective `***.html` file in `/templates`, Click Raw -> Copy all (CMD+A; CMD+C).
 3. Go to `https://jsonformatter.org/html-viewer` in your browser.
 4. Paste your clipboard in the left hand side.
