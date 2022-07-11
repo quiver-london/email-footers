@@ -11,6 +11,7 @@
 7. Check the links work.
 8. Copy inside the white part of the right hand side (the visualisation of the html). 
 9. Paste your clipboard into your mail signatures section. In gmail you find your signatures by going Settings -> See all settings -> Signature -> Create new -> Paste your clipboard. If it looks weird it's because you didn't copy from inside the white part.
+10. Please then send a test email to matt@quiver.co.uk with "Test Footer" as subject.
 
 ## Contribution
 
